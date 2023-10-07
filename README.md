@@ -1,0 +1,2 @@
+# Application of Deep Learning into Native Application Development
+This project involves demostrating the application of data science for image recognition. The dataset used is the stranford 120 dog breed image. The transfer learning algorithm selected are Xception, Inception and EfficientNet. The algorithm with a better validation accuracy will be converted to a tflite model and embedded in an android native application.
